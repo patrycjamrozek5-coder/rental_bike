@@ -1,0 +1,5 @@
+[
+    {"name": "Bike", "available": true},
+    {"name": "Mountain Bike", "available": true},
+    {"name": "Road Bike", "available": false}
+]
